@@ -44,6 +44,10 @@
 
 <div align="center">
 
+<div align="center">
+
+<div align="center">
+
 ## 📊 LeetCode Proficiency
 <a href="https://leetcode.com/u/codex_Anand/">
   <img src="https://leetcard.jacoblin.cool/codex_Anand?theme=dark&font=Baloo_2" alt="LeetCode Stats" />
@@ -53,9 +57,9 @@
 
 ## 🐍 GitHub Contribution Streak
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aanandtiwari1802-ops/aanandtiwari1802-ops/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aanandtiwari1802-ops/aanandtiwari1802-ops/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aanandtiwari1802-ops/aanandtiwari1802-ops/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
