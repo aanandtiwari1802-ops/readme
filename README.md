@@ -17,9 +17,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aanandtiwari1802-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=40c463&icon_color=40c463&ring_animation=true" alt="Main Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aanandtiwari1802-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=40c463&icon_color=40c463&ring_animation=true&cache_seconds=1800" alt="Main Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanandtiwari1802-ops&theme=tokyonight&hide_border=true&background=0D1117&sideNums=40c463&stroke=40c463&ring=40c463&fire=40c463" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanandtiwari1802-ops&theme=tokyonight&hide_border=true&background=0D1117&sideNums=40c463&stroke=40c463&ring=40c463&fire=40c463&curr_streak_anytime=true" alt="Streak Stats" />
 </div>
 
 <p align="center">
@@ -27,7 +27,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aanandtiwari1802-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=40c463&langs_count=8" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aanandtiwari1802-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=40c463&langs_count=8&cache_seconds=1800" width="60%" alt="Top Languages" />
 </div>
 
 <p align="center">
