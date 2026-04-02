@@ -34,6 +34,32 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
+<div align="center">
+
+<div align="center">
+
+<div align="center">
+
+<div align="center">
+
+<div align="center">
+
+## 📊 LeetCode Proficiency
+<a href="https://leetcode.com/u/codex_Anand/">
+  <img src="https://leetcard.jacoblin.cool/codex_Anand?theme=dark&font=Baloo_2" alt="LeetCode Stats" />
+</a>
+
+---
+
+## 🐍 GitHub Contribution Streak
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aanandtiwari1802-ops&theme=tokyonight&bg_color=0D1117&color=40c463&line=40c463&point=ffffff&area=true&hide_border=true" width="100%" alt="Anand's Activity Graph" />
