@@ -55,14 +55,9 @@
 
 ---
 
-## 🐍 GitHub Contribution Streak
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aanandtiwari1802-ops/aanandtiwari1802-ops/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aanandtiwari1802-ops/aanandtiwari1802-ops/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aanandtiwari1802-ops/aanandtiwari1802-ops/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+### 🐍 GitHub Contribution Streak
 
-</div>
+![GitHub Snake](https://github.com/aanandtiwari1802-ops/aanandtiwari1802-ops/blob/output/github-contribution-grid-snake.svg)
 
 ### 📈 Contribution Graph
 <p align="center">
