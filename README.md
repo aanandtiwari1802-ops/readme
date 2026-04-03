@@ -57,7 +57,7 @@
 
 ### 🐍 GitHub Contribution Streak
 
-![GitHub Snake](https://github.com/aanandtiwari1802-ops/aanandtiwari1802-ops/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/aanandtiwari1802-ops/Readme/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 ### 📈 Contribution Graph
 <p align="center">
